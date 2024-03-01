@@ -1,0 +1,14 @@
+{
+  "printWidth": 120,
+  "trailingComma": "all",
+  "arrowParens": "always",
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "*.yaml",
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}
